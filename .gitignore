@@ -1,0 +1,29 @@
+# Ignore data files
+*.csv
+*.xlsx
+
+# Ignore Python-specific files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.egg-info/
+
+# Ignore virtual environment
+venv/
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
