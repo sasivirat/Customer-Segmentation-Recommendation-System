@@ -1,7 +1,6 @@
  ---
 
-
-Here’s a refined version incorporating these suggestions:  
+ 
 
 ---
 
